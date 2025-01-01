@@ -14,6 +14,8 @@ Despite the success of metaheuristic algorithms in solving complex network optim
 # Repository Structure <br>
 ELENA_TSP.ipynb: Code for ELENA implementation on TSP with performance comparison. <br>
 Others_TSP.ipynb: Code for common algorithms implementation on TSP with performance comparison. <br>
+ELENA-300-0.5_VRP_Augerat_A.ipynb: Code for ELENA-300-0.5 implementation on VRP on Augerat-1995 set A with performance comparison. <br>
+ELENA-300-0.5_VRP_Augerat_P.ipynb: Code for ELENA-300-0.5 implementation on VRP on Augerat-1995 set P with performance comparison. <br>
 
 README.md: This file, containing an overview of the repository. <br>
 LICENSE: Apache 2.0 License. <br>
