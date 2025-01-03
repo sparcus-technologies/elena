@@ -16,6 +16,8 @@ Despite the success of metaheuristic algorithms in solving complex network optim
 2. Others_TSP.ipynb: Code for common algorithms implementation on TSP with performance comparison. <br>
 3. ELENA-300-0.5_VRP_Augerat_A.ipynb: Code for ELENA-300-0.5 implementation on VRP on Augerat-1995 set A. <br>
 4. ELENA-300-0.5_VRP_Augerat_P.ipynb: Code for ELENA-300-0.5 implementation on VRP on Augerat-1995 set P. <br>
+5. Others_VRP_Augerat_A.ipynb: Code for common algorithms implementation on VRP on Augerat-1995 set A. <br>
+6. Others_VRP_Augerat_P.ipynb: Code for common algorithms implementation on VRP on Augerat-1995 set P. <br>
 
 README.md: This file, containing an overview of the repository. <br>
 LICENSE: Apache 2.0 License. <br>
