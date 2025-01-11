@@ -11,6 +11,10 @@ Despite the success of metaheuristic algorithms in solving complex network optim
 *Sulamanidze Keti, IE University* <br>
 *Kriuk Fedor, University of Technology Sydney* <br>
 
+# Data Availability <br>
+1. Augerat-1995 set A: http://www.vrp-rep.org/datasets/item/2014-0000.html. <br>
+1. Augerat-1995 set P: http://www.vrp-rep.org/datasets/item/2014-0009.html. <br>
+
 # Repository Structure <br>
 1. ELENA_TSP.ipynb: Code for ELENA implementation on TSP with performance comparison. <br>
 2. Others_TSP.ipynb: Code for common algorithms implementation on TSP with performance comparison. <br>
