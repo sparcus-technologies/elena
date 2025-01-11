@@ -23,6 +23,7 @@ Despite the success of metaheuristic algorithms in solving complex network optim
 5. Others_VRP_Augerat_A.ipynb: Code for common algorithms implementation on VRP on Augerat-1995 set A. <br>
 6. Others_VRP_Augerat_P.ipynb: Code for common algorithms implementation on VRP on Augerat-1995 set P. <br>
 7. ELENA_MCP.ipynb: Code for ELENA implementation on MCP with performance comparison. <br>
+8. ELENA_Streamlit_Visualization: Code for interactive ELENA implementation as a Streamlit app. <br>
 
 README.md: This file, containing an overview of the repository. <br>
 LICENSE: Apache 2.0 License. <br>
