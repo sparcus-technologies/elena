@@ -1,5 +1,0 @@
-streamlit
-numpy
-scipy
-folium
-streamlit-folium
